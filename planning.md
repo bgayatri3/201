@@ -21,16 +21,16 @@ FIRE (Financial Independence, Retire Early) for Early-Career Professionals is va
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Vanguard | Early retirement and the 4% rule: How FIRE investors can succeed | https://investor.vanguard.com investor-resources-education/retirement/early-retirement |
+| 2 | Investopedia | FIRE Explained: Financial Independence, Retire Early – Rules, Types & Planning | https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp |
+| 3 | r/financialindependence | The Basics |https://www.reddit.com/r/financialindependence/wiki/faq/ |
+| 4 | Saxo | Financial Independence Retire Early (FIRE): Guide | https://www.home.saxo/learn/guides/trading-strategies/financial-independence-retire-early-fire-a-guide |
+| 5 | r/financialindependence | Best and toughest lessons your learned on your FIRE journey | https://www.reddit.com/r/financialindependence/comments/1nawcca/best_and_toughest_lessons_your_learned_on_your/ |
+| 6 | Bogleheads | Three-fund portfolio | https://www.bogleheads.org/wiki/Three-fund_portfolio |
+| 7 | JL Collins | The 401(k), 403(b), TSP, IRA & Roth Buckets | https://jlcollinsnh.com/2015/06/02/stocks-part-viii-the-401k-403b-tsp-ira-roth-buckets/ |
+| 8 | JL Collins | Early Retirement Withdrawal Strategies and Roth Conversion Ladders from a Mad Fientist | https://jlcollinsnh.com/2013/12/05/stocks-part-xx-early-retirement-withdrawal-strategies-and-roth-conversion-ladders-from-a-mad-fientist/ |
+| 9 | US News | 7 Lessons From Those Who Retired by FIRE | https://money.usnews.com/money/retirement/aging/articles/lessons-from-those-who-retired-by-fire |
+| 10 | Sofi | Pros & Cons of FIRE | https://www.sofi.com/learn/content/pros-cons-of-fire-movement/|
 
 ---
 
