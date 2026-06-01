@@ -14,6 +14,8 @@
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
+FIRE (Financial Independence, Retire Early) for Early-Career Professionals - useful because there is a lot of useful information in niche places, misconceptions or lack of transparency around finances, and overall financial unawarness surrounding how young people can set themselves up for finanical freedom. 
+
 ---
 
 ## Document Sources

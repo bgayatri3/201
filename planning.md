@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+FIRE (Financial Independence, Retire Early) for Early-Career Professionals is valuable because there is a lot of useful information in niche places and misconceptions or lack of transparency around finances in general. Many financial institutions offer surface level advice online to give basic education on FIRE topics. More helpful tips and strategies can be uncovered through spiralling through long and dated reddit threads. By aggregating and simplifying this data, young people can utilize these tools and techniques early to boost their chances to hit this goal. 
 
 ---
 
