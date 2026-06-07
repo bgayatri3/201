@@ -21,7 +21,7 @@ FIRE (Financial Independence, Retire Early) for Early-Career Professionals is va
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | Vanguard | Early retirement and the 4% rule: How FIRE investors can succeed | https://investor.vanguard.com investor-resources-education/retirement/early-retirement |
+| 1 | Vanguard | Early retirement and the 4% rule: How FIRE investors can succeed | https://investor.vanguard.com/investor-resources-education/retirement/early-retirement |
 | 2 | Investopedia | FIRE Explained: Financial Independence, Retire Early – Rules, Types & Planning | https://www.investopedia.com/terms/f/financial-independence-retire-early-fire.asp |
 | 3 | r/financialindependence | The Basics |https://www.reddit.com/r/financialindependence/wiki/faq/ |
 | 4 | Saxo | Financial Independence Retire Early (FIRE): Guide | https://www.home.saxo/learn/guides/trading-strategies/financial-independence-retire-early-fire-a-guide |
