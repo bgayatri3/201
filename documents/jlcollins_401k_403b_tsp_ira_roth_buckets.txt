@@ -1,0 +1,274 @@
+SOURCE: https://jlcollinsnh.com/2015/06/02/stocks-part-viii-the-401k-403b-tsp-ira-roth-buckets/
+TITLE: jlcollins_401k_403b_tsp_ira_roth_buckets
+
+So far in the stock series we’ve examined the market and looked at some sample portfolios built from our two key index funds and cash. Those funds are what we call investments.
+
+But in our complex world we must next consider where to hold these investments. That is, in which bucket should which investment go? It is important to understand that 401(k)s, IRAs and the like are not investments themselves. Rather think of them as the buckets that hold the investments we choose. Broadly speaking, there are two types of buckets:
+
+Ordinary Bucket
+
+Tax-Advantaged Buckets
+
+Now at this point I must apologize to my international readers. This post is going to be very US centric. I am completely ignorant of the tax situation and/or possible tax-advantaged buckets of other countries. My guess is that, at least for western style democracies, there are many similarities. Most modern economies recognize the value of investing and seek to encourage it. Hopefully it will be possible for you to extrapolate the information here into something relevant to where you live. If not, feel free to skip ahead. You might find these posts particularly useful:
+
+Here in the US the government taxes dividends, interest and capital gains. But it has also created several tax-advantaged buckets to encourage retirement savings. While well intentioned, this has created a whole new level of complexity. Volumes have been written about each of these and the strategies now associated with them. Clearly, we haven’t the time or space to review them all. But hopefully I can provide a simple explanation of each along with some considerations to ponder.
+
+The Ordinary Bucket is where we hold investments that are not part of any tax-advantaged plan. It is, in a sense, no bucket at all. This is where everything would go were there no taxes on investment returns and no opportunities to defer them. We would just own what we own. Easy peasy!
+
+This is where we’ll want to put investments that are already “tax-efficient.” Tax-efficient investments are typically stocks and mutual funds that pay qualified dividends (dividends that receive favorable tax treatment) and avoid paying out taxable capital gains distributions. Such distributions are typical of actively managed funds that engage in frequent trading in their portfolios. VTSAX is a classic example of a tax-efficient investment. The dividends it pays are modest and mostly “qualified.” Because trading (buying and selling) in the fund is rare, so too are taxable gains distributions.
+
+Investments that are “tax-inefficient” are those that pay interest, non-qualified dividends and those that generate taxable capital gains distributions. These are things like some stock funds, bonds, CDs and REITs (real estate investment trusts). These we want to keep ideally in our tax-advantaged buckets as their payouts are then tax-deferred.
+
+There are several variations of tax-advantaged buckets, and we’ll look at each. But first let’s look at our three investments and consider where they might fit:
+
+Stocks. VTSAX (Vanguard Total Stock Market Index Fund) currently pays around a 1.8% dividend and most of the gain we seek is in capital appreciation. It is tax-efficient and we can use our ordinary bucket. However, since this will be a large portion of our total holdings and since any investment can benefit from the tax-advantaged bucket, we will also hold it in our tax-advantaged buckets.
+
+Bonds. VBTLX (Vanguard Total Bond Market Index Fund): Bonds are all about interest payments. Other than tax-exempt municipal bonds, they go into our tax-advantaged bucket.
+
+Cash is also all about interest but, more importantly, it is all about ready access for immediate needs. Ordinary Bucket.
+
+There may be exceptions. Proper allocation should trump bucket choice. Your tax bracket, investment horizon and the like will color your personal decisions. But the above should give you a basic framework for considering the options.
+
+Before we look at the specifics of IRAs and 401(k)s, this important note: None of these tax-advantaged buckets eliminates your tax obligation. They only defer it. Fix this in your brain. We are talking about when, not if, the government will be expecting the tax on these accounts to be paid.
+
+When the time comes to withdraw this money, taxes will be due. So will penalties if you withdraw before age 59 1/2. And come age 70 1/2 (except for Roth IRAs) you will be required to begin withdrawals based on what the actuarial tables say your life expectancy will be. These are called RMDs , or required minimum distributions.
+
+Don’t let this scare you; simply be aware. The benefit of having your investments grow tax-sheltered over the decades is no small thing, and in most cases you should fund these buckets to the maximum the law permits.
+
+There are strategies that seek to access this money tax-free, or at least at the lowest possible rate. These involve structuring your earned and investment income so as to fall under the limits the IRS establishes as being tax free. So while the money you withdraw is legally subject to tax, your tax bracket is such that the amount actually owed is zero.
+
+Staying under these limits can also provide the opportunity to shift money tax-free over time from your Traditional IRA to a Roth IRA, thus further avoiding taxes when you withdraw and spend it.
+
+These are well worth considering if your situation allows for them. You can find details in these posts…
+
+From Go Curry Cracker:
+
+From The Mad Fientist:
+
+Here on jlcollinsnh:
+
+There are many, many variations of 401(k)-type and IRA-type accounts. We’ll look at the basic types here. The rest are branches from these trees.
+
+Employer-based tax-advantaged buckets
+
+These are buckets provided by your employer. They select an investment company which then offers a selection of investments from which to choose. Many employers will match your contribution up to a certain amount. The amount you can contribute is capped. For 2015 the cap is $18,000 per year and $24,000 for those age 50 and older. You can contribute to more than one plan (if you have access to more than one) but the cap is the total for all together, not for each separately.
+
+In general:
+
+These are very good things, but not as good as they once were. Unfortunately many of the investment firms operating these programs have seized upon the opportunity to laden them with excessive fees . This is outrageous and offensive, but the advantage of having your investments grow tax free is not to be missed. Hold your nose and max out your contributions. I always did.
+
+Any employer match is an exceptionally good thing. This is free money. Contribute at least enough to capture the full match.
+
+Unless Vanguard happens to be the investment company your employer has chosen you may not have access to Vanguard Funds. That’s OK.
+
+Many 401(k) plans will have a least one index fund option. Scan the list of funds offered for the ones with the lowest expense ratio. That’s where you’ll find the index funds, if any.
+
+When you leave your employer you can roll your 401(k) into an IRA, preserving its tax advantage. Some employers will also let you continue to hold your 401(k) in their plan. I’ve always rolled mine over. It gives you more control, greater investment choices and allows you to escape those ugly fees.
+
+You can contribute to both a 401(k) and a Roth 401(k), but the total must fall within the annual contribution caps.
+
+401(k) and 403(b) Type Plans
+
+Contributions you make are deductible from your income for tax purposes.
+
+Taxes are due when you withdraw your money.
+
+Money withdrawn before age 59 1/2 is subject to penalty.
+
+After age 70 1/2 your money is subject to RMDs.
+
+Roth 401(k)
+
+These are relatively new and not yet widely available. It is worth comparing these bullet points to those of the Roth IRA below.
+
+Contributions you make are NOT deductible from your income for tax purposes.
+
+All earnings on your investments are tax-free.
+
+All withdrawals after age 59 1/2 are tax-free.
+
+Once you reach age 70 ½ RMDs take effect.
+
+There is no income limit for participating.
+
+TSPs (Thrift Savings Plans)
+
+These are retirement plans for Federal employees, including military personnel. Think of them as a 401(k), but better.
+
+Unlike the fee heavy cesspool too many 401(k) plans have become, a TSP offers a nice—but not overwhelming—selection of very low-cost index funds.
+
+Looking at the government’s chart of TSP expense ratios going back to 1999 these have ranged from a low of .015% in 2007 to a high of .102% in 2003. The reason for the variation, to quote the government site, is: “The TSP expense ratio represents the amount that participants’ investment returns were reduced by TSP administrative expenses, net of forfeitures.”
+
+Even at their worst, these are very low expense ratios—often lower even than Vanguard index funds, and that’s low! Good deal.
+
+There are five basic TSP funds:
+
+The C-fund replicates the S&P 500 index.
+
+The S-fund replicates the small cap index.
+
+The F-fund is a bond index.
+
+The I-fund is an international stock index fund.
+
+The G-fund holds a non-marketable short-term U.S. Treasury security unique to TSP.
+
+Own both the C and the S in about a 75/25 balance and you’ve basically got VTSAX. But personally I wouldn’t bother. I’d just hold the C-fund and be done with it.
+
+In addition, there are the L-funds. These are “Lifecycle” funds made up of the other five held in various allocations designed for a particular time horizon. L-funds are very much like Target Retirement Funds .
+
+TSPs are a no-brainer. If you are fortunate enough to have access to them, max them out. And in this one case, because of the ultra-low fees, I wouldn’t roll them into an IRA once you leave your job.
+
+Individually-based tax-advantaged buckets: IRAs
+
+IRAs are buckets you hold on your own, in addition to and separate from any employer sponsored 401(k)-type plans. You have complete control in selecting the investment company and the investments for your IRA. This means you also control costs and can avoid those companies and investments that charge excessive fees. Mine are all with Vanguard.
+
+You can only fund these with “earned income” or money you roll over from an employer-based plan. Typically, earned income is money you are paid for the work you do.
+
+There are three types of IRAs. For 2015 the total annual contribution cap is $5,500 and $6,500 for those age 50 and older.
+
+As with the 401(k) and Roth 401(k), you can contribute to both an IRA and a Roth IRA but again the total must fall within the IRA annual contribution caps.
+
+Deductible and Roth IRAs both have income restrictions for participation. Non-deductible IRAs do not. These income limits change year-to-year and vary according to tax filing status and employer plan coverage.
+
+Deductible IRA.
+
+Contributions you make are deductible from your income for tax purposes.
+
+Deductibility is phased out over certain income levels.
+
+All earnings on your investments are tax deferred.
+
+Taxes are due when you withdraw your money.
+
+Money withdrawn before age 59 1/2 is subject to penalty.
+
+After age 70 1/2 your money is subject to RMDs.
+
+Non-Deductible IRA.
+
+Contributions you make are NOT deductible from your income for tax purposes.
+
+There are no income limits for participating.
+
+All earnings on your investments are tax-deferred.
+
+Taxes are due on any dividends, interest or capital gains earned when you withdraw your money.
+
+Taxes are not due on your original contributions. Since these contributions were made with “after tax” money they have already been taxed.
+
+Those last two points mean extra record keeping and complexity in figuring your tax due when the time comes.
+
+Money withdrawn before age 59 1/2 is subject to penalty.
+
+After 70 1/2 your money is subject to RMDs.
+
+Roth IRA.
+
+Contributions you make are NOT deductible from your income for tax purposes.
+
+Eligibility to contribute is phased out over certain income levels.
+
+All earnings on your investments grow tax-free.
+
+All withdrawals after age 59 1/2 are tax-free.
+
+You can withdraw your original contributions anytime, tax and penalty free.
+
+You can withdraw contributions that are conversions from regular IRAs after five years, tax and penalty free.
+
+You can withdraw as much as you like anytime to fund a first-time home purchase or to pay for college related expenses for yourself and/or your children.
+
+There is no RMD.
+
+In short, these can be summarized like this:
+
+401(k)/401(b)/TSP = Immediate tax benefits and tax-free growth. No income limit means the tax deduction for high income earners can be especially attractive. But taxes are due when the money is withdrawn.
+
+Roth 401(k) = No immediate tax benefit, tax-free growth and no taxes due on withdrawal.
+
+Deductible IRA = Immediate tax benefits and tax-free growth. But taxes are due when the money is withdrawn. Deductibility is phased out over certain income levels.
+
+Non-Deductible IRA = No immediate tax benefit, tax-free growth and added complexity. Taxes are due only on the account’s earnings when the money is withdrawn. Contributions can be made regardless of income.
+
+Roth IRA = No immediate tax benefit, tax-free growth and no taxes due on withdrawal. A better Non-Deductible IRA, if you will. But eligibility phases out over certain income limits.
+
+Now, if you’ve been paying attention, you might be thinking “Holy cow! This Roth IRA is looking like one very sweet deal. In fact it is even looking like it violates what Collins told us to fix in our minds earlier: “None of these eliminates your tax obligations. They only defer them.” True enough, but as with many things in life there is a catch.
+
+While the money you contribute to your Roth does indeed grow tax-free and remains tax-free on withdrawal, you have to contribute “after-tax” money. That is, money upon which you’ve already paid tax. This can be easy to overlook, but is a very real consideration.
+
+Look at it this way. Suppose you want to fund your IRA this year with $5,000 and you are in the 25% tax bracket. To fully fund your deductible IRA all you need is $5,000 because, since it is deductible, you don’t need any money to pay the taxes due on it.
+
+But with a Roth, you’d need $6,667: $1,667 to pay the 25% tax due and still have $5,000 left to fund the Roth IRA ($6,667 – 25% = $5000). That $1,667 is now gone forever and so is all the money it could have earned for you over the years.
+
+Were you to fund your deductible IRA, instead of your Roth, you’d still have this $1,667 and it could then be invested. Of course, it is subject to your 25% tax bracket. After paying taxes on it, you’d have $1,250 left to invest ($1,667 – 25% = $1,250).
+
+Curious as to what that might look like? Recalling that the average annual return on the S&P 500 for the 40 years from 1975-2014 was 8.88%:
+
+$1250 invested each year for 30 years @ 8.88%= $166,616
+
+Of course, if you fail to invest the tax savings you’ll lose this advantage and the Roth would have been the better choice.
+
+It can be very emotionally satisfying to fund a Roth, pay the taxes now and be done with them. But it might not be the optimal financial strategy. If you are still undecided, this series of pros and cons might help.
+
+Because I’m the suspicious type, and the long-term tax advantages of a Roth are so attractive, I start thinking about what might go wrong. Especially since these are such long-term investments and the government can and does change the rules seemingly on a whim. Two potential threats occur to me:
+
+1. The government could simply change the rules and declare money in Roth IRAs taxable. But this is doubtful. Roth IRAs have become so popular and are held by so many people, this seems more and more politically unlikely. Politicians are loathe to take anything away from voters.
+
+2. More likely, the government could find an alternative way to tax the money. Increasingly in the US there is talk of establishing a national sales tax or added value tax. While both may have merit—especially as a substitute for the income tax—these would effectively tax any Roth money as it was spent.
+
+With all this in mind, here is my basic hierarchy for deploying investment money:
+
+Fund 401(k)-type plans to the full employer match, if any.
+
+Fully fund a Roth if your income is low enough that you are paying little or no income tax.
+
+Once your income tax rate rises, fully fund a deductible IRA rather than the Roth.
+
+Keep the Roth you started and just let it grow.
+
+Finish funding the 401(k)-type plan to the max.
+
+Consider funding a non-deductible IRA if your income is such that you cannot contribute to a deductible IRA or Roth IRA.
+
+Fund your taxable account with any money left.
+
+If you retire before 59.5, here’s how you can access the money in your tax-advantaged accounts without being penalized.
+
+Let’s finish this post with the recommendation that, whenever possible, you roll your 401(k)/403(b) (but not your TSP) accounts into your personal IRA. Usually this will be when you leave your employer. Employer plans are all too frequently laden with excessive fees and your investment choices are limited. In your IRA you have far more control.
+
+Personally, I’ve always been slightly paranoid about having my employers involved in my investments any longer than I had to. The moment I could roll my 401(k) into my own IRA, I did.
+
+Note 1:
+
+Low fees are critical to your investment returns. Empower is a great free tool to manage and evaluate the investments you have, including costs. If, like most folks, you have a range of investments now you can track and compare them. At a glance you’ll see what’s working and what you might want to change. Very cool.
+
+Note 2:
+
+We’ve touched a bit on tax laws in this post. While the numbers and information are current as of 2015, should you be reading this a few years after publication, they are sure to have changed. The basic principles should hold up for some time, but look up the specific numbers that are applicable for the year in which you are reading.
+
+Note 3:
+
+As mentioned in the post, there are many variations of 401(k)-type and IRA-type accounts (457b, Backdoor IRA, SEP IRA and Solo 401k plans come to mine) and clearly we haven’t the time or space to review them all.
+
+But you’ll likely find discussions of them in the comments. In fact, for 457b and Backdoor IRA, they are already there!
+
+Addendum 1: College Savings Plans
+
+Addendum 3: 2014 & 2015 Income limits for IRA Deductibility and Roth Eligibility . Note that you must click between the buttons near the top to go from Roth to T-IRA.
+
+Addendum 4:
+
+In the comments below, reader David raises a great question/concept: Can we avoid RMDs if we rollover a Roth 401k to a Roth IRA?
+
+Based on my research, I can say this:
+
+First, once leaving your employer, you can definitely roll your Roth 401(k) int0 a Roth IRA. Just like rolling a Traditional 401(k) into a T-IRA.
+
+Second, a Roth IRA definitely has no RMD requirement.
+
+But I am unable to find anything on the IRS site or elsewhere addressing how the funds rolled over might be treated regarding the RMD. It appears to be something the IRS has yet to rule on. How it will fall out is anybody’s guess at this point.
+
+If any readers have or find an IRS ruling on this, please post the info in the comments with a link. Thanks!
+
+Meanwhile and unrelated, recently…

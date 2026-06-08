@@ -1,0 +1,190 @@
+SOURCE: https://www.bogleheads.org/wiki/Three-fund_portfolio
+TITLE: ogleheads_three_fund_portfolio
+
+# Three-Fund Portfolio
+
+## What Is a Three-Fund Portfolio?
+
+A three-fund portfolio is a simple investing strategy that uses three broad-market index funds:
+
+1. Domestic Stock Market Fund
+2. International Stock Market Fund
+3. Total Bond Market Fund
+
+The goal is to create a diversified, low-cost portfolio that is easy to manage and rebalance.
+
+## Core Components
+
+### Domestic Stocks
+
+Provides exposure to the U.S. stock market through a total market index fund.
+
+### International Stocks
+
+Provides exposure to companies outside the United States and increases diversification.
+
+### Bonds
+
+Provides stability and helps reduce portfolio volatility.
+
+## Establishing a Three-Fund Portfolio
+
+Building a three-fund portfolio involves three major decisions:
+
+### 1. Choose Your Asset Allocation
+
+Determine:
+
+- What percentage of your portfolio should be invested in stocks versus bonds.
+- What percentage of your stock allocation should be domestic versus international.
+
+Common considerations:
+
+- Risk tolerance
+- Age
+- Retirement timeline
+- Financial goals
+
+### 2. Choose Asset Location
+
+Place investments in the most tax-efficient accounts.
+
+General guidelines:
+
+- Bonds are often held in tax-advantaged accounts.
+- International funds may be beneficial in taxable accounts.
+- Domestic stock funds can fill remaining space.
+
+### 3. Choose Low-Cost Funds
+
+The Boglehead philosophy emphasizes:
+
+- Low expense ratios
+- Broad diversification
+- Total market index funds
+- Long-term investing
+
+## Common Vanguard Three-Fund Portfolio
+
+Typical fund selections include:
+
+### Vanguard Total Stock Market Index Fund (VTSAX)
+
+Provides exposure to the entire U.S. stock market.
+
+### Vanguard Total International Stock Index Fund (VTIAX)
+
+Provides exposure to international markets.
+
+### Vanguard Total Bond Market Index Fund (VBTLX)
+
+Provides exposure to investment-grade U.S. bonds.
+
+## Example Allocation
+
+A three-fund portfolio might consist of:
+
+- 42% U.S. Stocks
+- 18% International Stocks
+- 40% Bonds
+
+The exact allocation depends on the investor's goals and risk tolerance.
+
+## Benefits of a Three-Fund Portfolio
+
+### Simplicity
+
+Only three funds are required.
+
+### Diversification
+
+Provides exposure to thousands of stocks and bonds worldwide.
+
+### Low Cost
+
+Index funds generally have very low expense ratios.
+
+### Easy Maintenance
+
+Requires only occasional rebalancing.
+
+### Strong Historical Performance
+
+Many investors believe a simple diversified portfolio outperforms the majority of actively managed portfolios over long periods.
+
+## Alternative Fund Providers
+
+A Boglehead-style portfolio does not require Vanguard funds.
+
+Investors can use:
+
+- Fidelity index funds
+- Schwab index funds
+- Other low-cost index funds and ETFs
+
+The key principle is broad diversification and low expenses.
+
+## International Allocation Considerations
+
+There is ongoing debate about how much international exposure investors should hold.
+
+Common recommendations include:
+
+- 20%–40% of stock allocation in international stocks.
+- Global market-weight allocations.
+- Personal preference based on risk tolerance.
+
+## Bond Allocation Considerations
+
+Bonds are included to:
+
+- Reduce volatility.
+- Provide stability during market downturns.
+- Improve risk-adjusted returns.
+
+Some investors also consider:
+
+- International bonds
+- Certificates of Deposit (CDs)
+- Treasury Inflation-Protected Securities (TIPS)
+
+## Three-Fund Portfolio vs. Target Retirement Funds
+
+Target Retirement Funds offer a similar strategy in a single fund.
+
+### Advantages of a Three-Fund Portfolio
+
+- Greater control over allocation.
+- Better tax efficiency.
+- Lower costs in some cases.
+- More flexibility.
+
+### Advantages of Target Retirement Funds
+
+- Simplicity.
+- Automatic rebalancing.
+- No need to manage allocations manually.
+
+## Four-Fund Portfolio Variation
+
+Some investors add:
+
+### International Bond Fund
+
+Creating a four-fund portfolio consisting of:
+
+1. U.S. Stocks
+2. International Stocks
+3. U.S. Bonds
+4. International Bonds
+
+This approach is used in many Vanguard Target Retirement Funds.
+
+## Key Takeaways
+
+- A three-fund portfolio uses domestic stocks, international stocks, and bonds.
+- It emphasizes simplicity, diversification, and low costs.
+- Asset allocation is more important than selecting individual funds.
+- Broad-market index funds are commonly recommended.
+- Rebalancing periodically helps maintain the desired allocation.
+- Many investors view a three-fund portfolio as sufficient for achieving long-term financial goals.

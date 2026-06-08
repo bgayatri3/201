@@ -49,6 +49,8 @@ FIRE (Financial Independence, Retire Early) for Early-Career Professionals is va
 
 Additionally, the 10-20% overlap will help preserve concepts across more complex financial concepts that span over multiple paragraphs. This could include ideas like is the 4% rule accurate, which might have more detailed nuanced. The overlap will help reduce the risk of retrieving incomplete information for cases like this
 
+**Implementation note (Milestone 3):** Implemented in `src/chunk.py` with LangChain's `RecursiveCharacterTextSplitter`, `chunk_size=800`, `chunk_overlap=120` (15%, mid-range of the planned 10-20%), splitting on paragraph → line → sentence → word boundaries so chunks are never cut mid-word. Added a `MIN_CHUNK=200` post-step that merges sub-200-char fragments (e.g. a lone `## heading` line, or a short trailing scrap) into a neighboring chunk — this wasn't in the original spec, but inspection showed the splitter occasionally emits standalone heading fragments with no retrievable meaning, so merging keeps every chunk a complete thought. Cleaning (in `src/ingest.py`) also strips link-only list items (related-article / "in this article" navigation widgets on Investopedia and JL Collins) that would otherwise produce link-list chunks. **Final count: 163 chunks across all 10 sources (min 299 / mean 661 / max 798 chars).** 6 sources are scraped live; the 4 anti-bot-blocked sources (both Reddit threads, Bogleheads, US News) are ingested from browser-saved files in `documents/manual/`, which override scraping and run through the same cleaning + chunking pipeline.
+
 ---
 
 ## Retrieval Approach
@@ -198,6 +200,84 @@ Source: https://medium.com/@rahultiwari065/unlocking-the-power-of-sentence-embed
 
 
 **Milestone 3 — Ingestion and chunking:**
+Below are the results of my small script chunk_check.py. The 5 chunks below are decent. This exercise helped me remove some misc data still present in the txt files.
+
+================================================================================
+ID: saxo_fire_guide.txt::chunk_0
+Source: saxo_fire_guide.txt
+Length: 496 chars
+--------------------------------------------------------------------------------
+## Financial Independence Retire Early (FIRE): Guide
+
+Saxo Group
+
+## A new path to financial independence
+
+For decades, retirement felt like a fixed destination: you worked until 65 or 67, collected a pension, maybe a gold watch, and that was the end of the story. But in recent years, a movement has emerged that challenges these traditions and reimagines what retirement and investing strategies can look like.
+
+That movement is FIRE: Financial Independence, Retire Early.
+
+## FIRE fundamentals
+
+
+================================================================================
+ID: sofi_pros_cons_fire.txt::chunk_15
+Source: sofi_pros_cons_fire.txt
+Length: 608 chars
+--------------------------------------------------------------------------------
+## Dividends
+
+Shareholders earn dividend income when companies have excess profits. Dividends are generally offered on a quarterly basis, and if you hold shares of a stock you could earn them.
+
+However, because dividend payments depend on company performance, they’re not guaranteed. Those relying on them to live should have other income sources (including substantial savings accounts) as a back up income stream.
+
+## Market Appreciation
+
+Investors can also earn potential profits through market appreciation when they sell stocks and other assets for a higher price than what they initially paid for them.
+
+
+================================================================================
+ID: jlcollins_401k_403b_tsp_ira_roth_buckets.txt::chunk_19
+Source: jlcollins_401k_403b_tsp_ira_roth_buckets.txt
+Length: 730 chars
+--------------------------------------------------------------------------------
+There is no RMD.
+
+In short, these can be summarized like this:
+
+401(k)/401(b)/TSP = Immediate tax benefits and tax-free growth. No income limit means the tax deduction for high income earners can be especially attractive. But taxes are due when the money is withdrawn.
+
+Roth 401(k) = No immediate tax benefit, tax-free growth and no taxes due on withdrawal.
+
+Deductible IRA = Immediate tax benefits and tax-free growth. But taxes are due when the money is withdrawn. Deductibility is phased out over certain income levels.
+
+Non-Deductible IRA = No immediate tax benefit, tax-free growth and added complexity. Taxes are due only on the account’s earnings when the money is withdrawn. Contributions can be made regardless of income.
+
+
+================================================================================
+ID: jlcollins_401k_403b_tsp_ira_roth_buckets.txt::chunk_4
+Source: jlcollins_401k_403b_tsp_ira_roth_buckets.txt
+Length: 508 chars
+--------------------------------------------------------------------------------
+Investments that are “tax-inefficient” are those that pay interest, non-qualified dividends and those that generate taxable capital gains distributions. These are things like some stock funds, bonds, CDs and REITs (real estate investment trusts). These we want to keep ideally in our tax-advantaged buckets as their payouts are then tax-deferred.
+
+There are several variations of tax-advantaged buckets, and we’ll look at each. But first let’s look at our three investments and consider where they might fit:
+
+
+================================================================================
+ID: sofi_pros_cons_fire.txt::chunk_1
+Source: sofi_pros_cons_fire.txt
+Length: 694 chars
+--------------------------------------------------------------------------------
+While it may sound like the perfect life hack, attempting to live out this dream comes with some serious challenges. Read on to learn more about the FIRE movement and some techniques followers have used to help achieve their goal of early retirement. That can help you determine whether any of their savings strategies might be right for you.
+
+Key Points
+
+• FIRE stands for Financial Independence, Retire Early, with proponents aiming to retire earlier than the traditional time frame of 65 to 70 years-old.
+
+• The movement originated from the book Your Money or Your Life in 1992, and gained traction in the 2010s.
+
+• Achieving FIRE may require saving 50% to 75% of income and living frugally.
 
 **Milestone 4 — Embedding and retrieval:**
 

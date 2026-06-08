@@ -1,0 +1,152 @@
+SOURCE: https://jlcollinsnh.com/2013/12/05/stocks-part-xx-early-retirement-withdrawal-strategies-and-roth-conversion-ladders-from-a-mad-fientist/
+TITLE: jlcollins_early_retirement_withdrawal_roth_ladder
+
+Albert Einstein in fine form
+
+I like smart people.
+
+People who can make me sit back and think: Hmmm, I never thought of that. Or I never thought of that in quite that way.
+
+In most fields where I have a lay interest, physics or anthropology or evolution or psychology for example, this is not all that hard to do. My knowledge level is modest and my learning curve in the early stages.
+
+With investing, not so much.
+
+I’ve been working through my understanding of money, how to think about it and how to use it for decades. You’d be hard pressed to think of a mistake I haven’t made. When I read the arguments against the validity of index investing , for instance, it is my own voice I hear in my head.
+
+So it is not often these days I find a writer who truly expands my financial horizons. Someone so clear and insightful that when we disagree I find myself re-evaluating my thinking. But what a thrill when I do.
+
+If you are a regular here, you may well already be familiar with The Mad Fientist. So impressed have I been, that I’ve fallen into the habit of routinely referring to his ideas and linking to his posts. I have even on occasion, and it is hard to fully express how rare this is for me, submitted my draft posts to him for peer review.
+
+The most notable of these was my rant: Should you avoid your company’s 401k plan?
+
+Offended deeply by the egregious fees many 401k plans have begun to charge, I dearly wanted to be able to tell you to simply skip these plans. Doing so would have appealed to my sense of justice and my appreciation of simplicity. But the facts lead to a different conclusion, and at my request in Addendum I MF laid out the case for the value 401k plans provide even with their ugly fees. He was, of course, correct.
+
+In many ways, that addendum was the precursor to this guest post.
+
+Some of the more frequent questions I’ve been getting of late relate to how best, exactly, to begin pulling the 4% once retirement is reached. A major concern, especially for those retiring well before age 59.5, is how to access all those tax advantaged accounts without penalty. MF has it figured out and shares it right now, right here.
+
+(I ‘ll also be writing have written more on Pulling the 4% in the future .)
+
+If you are not already a MF reader, consider this a taste. For those serious about investing, my guess is you’ll shortly be as big a fan as I.
+
+And if as you read his stuff you find an idea or two that conflicts with my own, it just might be possible he is the one who is right.
+
+So now…
+
+From the Mad Fientist :
+
+## Taxable vs. Tax-Advantaged
+
+For investors, there is a recurring debate over whether to invest in taxable accounts or tax-advantaged accounts and how much to allocate between the two.
+
+Taxable accounts are great because you can access your money at any time and you don’t have to worry about the government charging you any fees to do so.
+
+Tax-advantaged accounts, on the other hand, allow you to reduce your taxes, thereby allowing you to invest more, but there are rules that govern how you access your money (for more info on the various types of “buckets”, check out JL’s excellent post here ).
+
+Obviously, if you plan on retiring early, you’ll need to have access to a certain amount of money prior to standard retirement age, so the debate is particularly heated within early retirement circles.
+
+I’d say though, that not only is there a clear winner in this debate, it is even clearer for those aspiring to retire early. Winner: Tax-advantaged.
+
+## Tax-Advantaged Accounts
+
+The main reason tax-advantaged accounts are usually best is because they allow you to put more of your money to work for longer. By investing the money you save on income tax, you can dramatically increase your savings rate and build up your FU money quicker.
+
+Over on my site, I wrote an article titled Retire Even Earlier Without Earning More or Spending Less and in that post, I compared two different scenarios (see graph from the post below).
+
+In the first scenario, a person who starts with nothing, makes $60K per year, spends $16,800 per year ($1,400 per month) and invests the rest in a taxable account is able to retire in just under 11 years (assuming a 5% real rate of return).
+
+In the second scenario, I used exactly the same numbers but rather than only invest in taxable accounts, the person instead maxes out his tax-advantaged accounts (i.e. IRA, 401(k) with 5% employer match, and HSA) and invests what’s left in a taxable account.
+
+This one minor, seemingly insignificant change results in shaving over two years off of his working career! That means, without earning any more, spending any less, or taking on any additional risk, he was able to reduce an already short working career by nearly 20%!
+
+In this chart…
+
+The dark green line represents the first scenario, using taxable accounts only.
+
+The bars represent the second scenario, using maxed-out retirement accounts (the light green portion) and taxable accounts (the dark green portion).
+
+The dashed red line represents how much he needs to be financially independent.
+
+By utilizing his tax-advantaged accounts, he is able to reduce his taxable income from $60k to under $34k and therefore reduce his federal income tax burden by over $5,000 per year. As you can see in the graph, the additional tax savings that he is able to invest every year, when combined with the employer 5% 401(k) match, really adds up!
+
+Now while it’s obviously beneficial to utilize tax-advantaged accounts, you may be wondering how you can access the money you contribute to the accounts before the standard 59.5 retirement age without being penalized.
+
+## Roth IRA Conversion Ladder
+
+The best strategy, in my opinion, is to build a Roth IRA Conversion Ladder.
+
+Here’s how it works…
+
+Once he quits his job, the first step to accessing this money early is to move the 401(k) funds into his Traditional IRA. This step is the easy part and according to Vanguard , the rollover can be set up in about 20–30 minutes (although it may take 2–3 weeks to be processed).
+
+After rolling over his 401(k) to his Traditional IRA, he can now start building a Roth conversion ladder.
+
+The IRS rules state that you are able to convert a Traditional IRA to a Roth IRA, as long as you pay ordinary income tax on the conversion. It’s possible though, due to a low amount of income during early retirement, that he won’t have to pay any tax at all on the conversion. If the conversions are tax free, that means he will have avoided paying any tax on the money (tax-free contributions to 401(k)/Traditional IRA, tax-free growth within the retirement accounts, tax-free conversion from 401(k)/Traditional IRA to a Roth IRA, and tax-free distributions from the Roth)!
+
+Assume for this scenario that he is comfortable paying a few hundred dollars in tax each year for the conversion so he decides to convert $12,800 each year to cover over 75% of his $16,800 worth of annual expenses during early retirement.
+
+Once the money has been converted into a Roth IRA, the converted amount is then available for withdrawal, tax and penalty free, five years after the conversion date (the earnings on those investments, however, need to remain invested until standard retirement age).
+
+To build up his $12,800 conversion ladder, he moves $12,800 from his Traditional IRA to his Roth IRA every year. After the fifth year, he is then able to withdraw $12,800 per year from the account. Assuming he continues to convert $12,800 every year, he will be able to withdraw $12,800 from his Roth IRA, tax and penalty free, every year for the rest of his life.
+
+It should be noted that since he won’t be able to access his retirement account money during the five years he is building up the conversion ladder, he’ll need enough in his taxable accounts to sustain himself for those years. Luckily, he ends up with over $100,000 in his taxable account (see the age 39 dark green taxable bar in the 1st chart) in this example scenario so he’ll be able to live off of that money until he is able to access the funds in his Roth IRA.
+
+Here’s a graph to illustrate what the Roth IRA in this example would look like when building up the conversion ladder:
+
+Since you can build as big or as small of a conversion ladder as you want, you could potentially fund the majority of your early retirement using this strategy.
+
+## Substantially Equal Periodic Payments*
+
+While the Roth IRA Conversion Ladder strategy is the method I plan on using to access my retirement account money before standard retirement age, there is another method that is worth mentioning.
+
+It is possible to withdraw money from an IRA before standard retirement age, without penalty, by setting up a withdrawal schedule of Substantially Equal Periodic Payments (SEPP).
+
+There are different ways you can calculate your periodic payments but the general idea is that you are able to withdraw a small percentage of your overall IRA balance every month, quarter, or year.
+
+The downside to this strategy is that you would need to continue the periodic payments for five years or until you turn 59.5, whichever is later. If, for some reason, you stop your disbursements before the time restriction is up, you would be responsible for paying a 10% penalty on all of your periodic payments.
+
+For more information on this strategy, check out the IRS FAQ on the topic.
+
+I won’t be utilizing this method because 1) it seems much more complicated than the conversion ladder strategy and would likely make tax time even less fun than it already is, 2) I don’t want to be forced to withdraw money from my IRA in years when I don’t need to, and 3) the conversion ladder strategy is more than sufficient on its own to get early access to retirement-account money so there is no reason to complicate things with another method.
+
+## Conclusion
+
+Obviously each person’s situation is unique so you should run your own numbers before making any changes to your contributions.
+
+For many people though, utilizing tax-advantaged retirement accounts could allow you to supercharge your savings rate by drastically reducing the amount of money you pay in taxes.
+
+Since many early retirees will likely have a low amount of earned income over a larger portion of their adult lives (i.e. the years after retiring), it is possible to access the money in tax-advantaged accounts early without paying any penalties or taxes at all, making this strategy particularly useful for future early retirees wanting to achieve financial independence sooner.
+
+The Mad Fientist writes about financial independence, early retirement, tax avoidance, travel hacking, and geographical arbitrage over at madfientist.com .
+
+## Still More
+
+The Mad Fientist expanded these concepts with some surprising new conclusions: How to Access Retirement Funds Early
+
+Here are three more related Mad Fientist posts:
+
+The Guinea Pig Update The Mad Fientist demonstrates theory put into action
+
+Roth IRA Horse Race How to supercharge your conversion ladder
+
+jlcollinsnh again…
+
+As I said at the very beginning, I like smart people. And the readers here certainly qualify as is reflected in both the calibre of their questions and of their answers. But I also know many blog readers tend to skip the comments section. That is a mistake around here:
+
+*Addendum #1: Rule 72(t) and Substantially Equal Periodic Payments (SEPP)
+
+In the comments below, reader Lucas has provided several detailed responses to some questions posed. Taken together they almost are a post on this subject themselves. Well worth a read if you are considering this option.
+
+Addendum #2: Roth Withdrawal Rules Summarized
+
+Reader TLV also added to the SEPP conversation in the comments. In addition he/she provided a nice explanation of the Roth withdrawal rules ending with this:
+
+So, to summarize: *Tax free: contributions any time, conversions after 5 years from conversion, earnings after 5 years from opening Roth IRA AND over 59 1/2. *10% tax: Conversions within 5 years from conversion *Income tax: Earnings before 59 1/2 but due to 72(t), education, or medical; earnings after 59 1/2 but within 5 years of opening Roth IRA *Income tax + 10%: Earnings before 59 1/2 and not meeting any other exceptions.
+
+Addendum #3: Retirement Withdrawal Strategies by my pal Darrow is an excellent overview of some of the options and he includes his personal approach.
+
+Addendum #4: Curious as to what your taxes might look like in retirement? While everybody’s situation will vary, here are two excellent posts from my pal Jeremy detailing his own tax strategy as he travels the world as an early retiree: Never pay taxes again and his actual 2013 tax return .
+
+Addendum #5: I find this is a very useful calculator for my personal tax planning: Taxcaster
+
+Addendum #6: More on 401(k), 403(b), TSP, IRA and Roth

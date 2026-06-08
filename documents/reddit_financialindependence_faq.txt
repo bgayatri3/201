@@ -1,0 +1,148 @@
+SOURCE: https://www.reddit.com/r/financialindependence/wiki/faq/
+TITLE: reddit_financialindependence_faq
+
+# r/financialindependence FAQ
+
+## What is Financial Independence (FI)?
+
+Financial Independence (FI) is having enough income from investments, passive businesses, real estate, or other assets to cover living expenses indefinitely. At this point, working becomes optional.
+
+The FI community generally focuses on three factors:
+
+1. Reducing Expenses
+2. Increasing Income
+3. Investing
+
+## Reducing Expenses
+
+Reducing living expenses is often considered the most important step toward FI. Lower expenses reduce the amount of money needed to become financially independent.
+
+Examples:
+- Avoid lifestyle inflation
+- Choose smaller housing when appropriate
+- Focus spending on things that provide genuine value
+
+## Increasing Income
+
+Ways to increase income include:
+
+- Improving education or skills
+- Negotiating raises
+- Pursuing promotions
+- Starting side businesses
+- Finding higher-paying career opportunities
+
+## Investing
+
+FI relies on investing savings so money can grow over time.
+
+Common recommendations:
+- Broad-market index funds
+- Long-term investing
+- Diversified portfolios
+
+## Getting Started with FI
+
+Core principle:
+
+Spend less than you earn and invest the difference.
+
+Key recommendations:
+
+- Maximize tax-advantaged accounts
+- Reduce living expenses
+- Minimize transportation costs
+- Develop self-sufficiency skills
+- Avoid lifestyle creep
+
+## Savings Rate
+
+### How is savings rate calculated?
+
+Recommended formula:
+
+Savings Rate = Savings / (Gross Income - Taxes)
+
+Where:
+
+Gross Income = Taxes + Spending + Savings
+
+A higher savings rate generally shortens the path to FI.
+
+## How Much Money Do I Need to Retire?
+
+Common Rule:
+
+Required Portfolio = Annual Expenses × 25
+
+This comes from the 4% Rule.
+
+Example:
+
+Annual Expenses: $40,000
+
+Required Portfolio: $1,000,000
+
+## The 4% Rule
+
+The 4% Rule originated from the Trinity Study.
+
+Summary:
+
+A retiree can withdraw approximately 4% of their portfolio annually, adjusted for inflation, with a high probability of not running out of money over a 30-year retirement period.
+
+Key assumptions:
+
+- Retirement length of approximately 30 years
+- Diversified stock and bond portfolio
+- Historical U.S. market returns
+
+This withdrawal percentage is often called the Safe Withdrawal Rate (SWR).
+
+## Inflation
+
+Inflation reduces purchasing power over time.
+
+Because of inflation:
+
+- Cash alone is generally insufficient for long-term FI
+- Many FI investors emphasize stock ownership
+- Investment growth must outpace inflation
+
+## Common FIRE Investment Strategies
+
+Popular approaches:
+
+1. Index Fund Investing
+2. Three-Fund Portfolio
+3. Vanguard Target Retirement Funds
+4. Vanguard LifeStrategy Funds
+
+Many FI investors prefer passive investing over stock picking.
+
+## Tax-Advantaged Accounts
+
+Benefits:
+
+- Lower taxes during working years
+- Potentially lower tax rates during retirement
+- Increased long-term compounding
+
+Common accounts:
+
+- Traditional 401(k)
+- Roth 401(k)
+- Traditional IRA
+- Roth IRA
+- HSA
+
+## Key Takeaways
+
+- Spend less than you earn.
+- Increase income when possible.
+- Invest consistently.
+- Focus on long-term growth.
+- Aim for a high savings rate.
+- Use tax-advantaged accounts.
+- Many FI calculations use 25× annual expenses.
+- The 4% Rule is a common retirement planning guideline.
