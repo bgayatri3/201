@@ -149,7 +149,7 @@ Source: https://medium.com/@rahultiwari065/unlocking-the-power-of-sentence-embed
 │                                                   │                                                                             
 │                     Generation                    │                                                                             
 │                                                   │                                                                             
-│                   Grok as the LLM                 │                                                                             
+│                   Groq as the LLM                 │                                                                             
 │                                                   │                                                                             
 └───────────────────────────────────────────────────┘                                                                             
 
